@@ -7,6 +7,7 @@ setup(
     license='MIT',
     author="Martin Čurlej",
     author_email="martin.curlej@gmail.com",
+    url="https://github.com/mcurlej/hello",
     long_description=open('README.md').read(),
     entry_points={
         "console_scripts": [

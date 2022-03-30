@@ -5,7 +5,7 @@ Summary: Hello Pyvo!
 License: MIT
 BuildArch: noarch
 
-URL: https://github.com/mcurlej/module-build
+URL: https://github.com/mcurlej/hello
 Source0: %{url}/archive/%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires: python3-devel
