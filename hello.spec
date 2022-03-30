@@ -8,6 +8,7 @@ BuildArch: noarch
 URL: https://github.com/mcurlej/module-build
 Source0: %{url}/archive/%{version}/%{name}-%{version}.tar.gz
 
+BuildRequires: python3-devel
 BuildRequires: python3-pytest
 
 %description
