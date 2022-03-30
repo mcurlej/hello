@@ -1,8 +1,8 @@
-* Hello
+# Hello
 
 prints "Hello Pyvo!" to the command line.
 
-* Package to RPM
+# Package to RPM
 
 This packaging was run on a Fedora machine.
 
